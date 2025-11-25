@@ -1,2 +1,3 @@
 # cloudflarecron
 此脚本适用于在cloudflare创建workers，设置cron触发器以定时访问站点
+worker里的Observability日志里如果显示200就是访问成功
