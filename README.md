@@ -1,0 +1,2 @@
+# cloudflarecron
+此脚本适用于在cloudflare创建workers，设置cron触发器以定时访问站点
